@@ -1,8 +1,49 @@
-.hero
-{
+
+.navbar-brand {
+    text-align: right;
+}
+p {
+    font-family: "Poppins" serif;
+    font-weight: bold;
+    font-size: 20px;
+ 
+}
 
 h1 {
-    color: black;
     font-family: "Poor Story";
+    font-size: 36px;
 }
+
+h2 {
+    font-family: "Poor Story";
+    font-size: 24px;
+}
+
+.img-fluid {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.hero {
+   text-align: center;
+   padding: 140px 20px;
+}
+
+.btn-branding {
+background: #EAFBA1;
+border-radius: 5px;
+color: #B2A1FB;
+font-family: "Poppins" serif;
+font-size: 18px;
+padding: 12px 20px;
+
+}
+
+.btn-branding-3 {
+    background: #EAFBA1;
+        border-radius: 5px;
+        color: #B2A1FB;
+        font-family: "Poppins" serif;
+            font-size: 18px;
+            padding: 12px 50px;
+            
 }
