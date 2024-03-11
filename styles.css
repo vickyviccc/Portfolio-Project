@@ -6,6 +6,11 @@
     background-color: white;
 }
 
+.offcanvas-body {
+    background-color:#EAFBA1;
+    font-family: "Poor Story";
+    
+}
 
 
 p {
@@ -41,15 +46,23 @@ color: #B2A1FB;
 font-family: "Poppins" serif;
 font-size: 18px;
 padding: 12px 20px;
-
+text-decoration: none;
+font-weight: 200;
+    border-style: ridge;
+        border-color: #B2A1FB;
 }
 
 .btn-branding-3 {
+   
     background: #EAFBA1;
         border-radius: 5px;
         color: #B2A1FB;
         font-family: "Poppins" serif;
             font-size: 18px;
-            padding: 12px 50px;
+            padding: 12px 53px;
+            text-decoration: none;
+            font-weight: 200;
+            border-style: ridge;
+            border-color: #B2A1FB ;
             
 }
