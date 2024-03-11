@@ -39,6 +39,13 @@ h2 {
    padding: 140px 20px;
 }
 
+.container {
+    padding: 140px 100px;
+   
+    border-radius: 5px;
+    color:#B2A1FB;
+    font-family: "Poppins" sans-serif;
+}
 .btn-branding {
 background: #EAFBA1;
 border-radius: 5px;
