@@ -1,4 +1,4 @@
-.container-fluid {
+.container {
     background-color: white;
   
 }
@@ -20,12 +20,12 @@ p {
  
 }
 
-h1 {
+.indexh1 {
     font-family: "Poor Story";
     font-size: 36px;
 }
 
-h2 {
+.indexh2 {
     font-family: "Poor Story";
     font-size: 24px;
 }
@@ -39,16 +39,32 @@ h2 {
    padding: 140px 20px;
 }
 
-.container {
-    margin-top: 10%;
+.div1 {
+    margin-top:100px;
+    font-family: "Poor Story";
+    border:#B2A1FB solid 1px;
+    margin-left: 250px;
+    margin-right:250px;
+    text-align: center;
+    border-radius: 5px;
     background-color: #EAFBA1;
-    color:#B2A1FB
-    
 }
 
+.div2 {
+    margin-top: 100px;
+    font-family: "Poor Story";
+    font-style: normal;
+    border: #B2A1FB solid 1px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    background-color: #EAFBA1;
+}
 
-
-
+.div2 p {
+    font-size: 50px;
+}
 
 
 .btn-branding {
