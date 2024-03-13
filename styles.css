@@ -73,6 +73,21 @@ p {
         font-weight: lighter;
 }
 
+.div3 p {
+   text-align: center;
+    font-weight: bold;
+ text-decoration-line: overline;
+ text-decoration-color: #B2A1FB;
+
+}
+
+.div3 img {
+    max-width: 50%;
+    
+        margin: auto;
+        display: block;
+}
+
 
 .btn-branding {
 background: #EAFBA1;
