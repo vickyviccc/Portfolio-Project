@@ -1,30 +1,32 @@
 
+
 .navbar-brand {
     background-color: white;
 }
 
 .offcanvas-body {
     background-color:#EAFBA1;
-    font-family: "Poor Story";
+    font-family: "Poppins" sans-serif;
+    font-weight: 100;
     
 }
 
 
+
 p {
-    font-family: "Poppins" serif;
-    font-weight: bold;
-    font-size: 20px;
+font-size: 24px;
+    font-weight: lighter;
  
 }
 
 .indexh1 {
-    font-family: "Poor Story";
+    font-family: "Poppins" sans-serif;
     font-size: 36px;
 }
 
 .indexh2 {
-    font-family: "Poor Story";
-    font-size: 24px;
+    font-family: "Poppins" sans-serif;
+    font-size: 20px;
 }
 
 .img-fluid {
@@ -45,9 +47,8 @@ p {
 
 .div1 {
  
-    font-family: "Poor Story";
+    font-family: "Poppins" sans-serif;
     border:#B2A1FB solid 1px;
-  
     text-align: center;
     border-radius: 5px;
     background-color: #EAFBA1;
@@ -56,9 +57,8 @@ p {
 
 
 .div2 {
-
     font-family: "Poppins" sans-serif;
-    font-size: 10px;
+    font-size: 20px;
     font-style: normal;
 
     border: #B2A1FB solid 1px;
@@ -68,6 +68,20 @@ p {
     background-color: #EAFBA1;
 }
 
+.div1 h1 {
+    font-family: "Poppins" sans-serif;
+        font-size: 30px;
+        font-style: bold;
+        margin-bottom: 5%;
+        
+}
+.div1 p {
+    font-family: "Poppins" sans-serif;
+        font-size: 20px;
+        font-weight: lighter;
+     
+       
+}
 .div2 p {
     font-size: 20px;
         font-weight: lighter;
@@ -92,6 +106,7 @@ p {
 .btn-branding {
 background: #EAFBA1;
 border-radius: 5px;
+text-transform: uppercase;
 color: #B2A1FB;
 font-family: "Poppins" serif;
 font-size: 18px;
@@ -105,6 +120,7 @@ font-weight: 200;
 .btn-branding-3 {
    
     background: #EAFBA1;
+    text-transform: uppercase;
         border-radius: 5px;
         color: #B2A1FB;
         font-family: "Poppins" serif;
@@ -115,4 +131,31 @@ font-weight: 200;
             border-style: ridge;
             border-color: #B2A1FB ;
             
+}
+
+footer {
+text-align: center;
+    color: #B2A1FB;
+    background-color: #EAFBA1;
+    
+}
+
+footer h3 {
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+footer li {
+    list-style: none;
+}
+
+footer ul {
+    padding: 0;
+}
+
+footer a {
+    color: #B2A1FB;
+    text-decoration: none;
+    font-size: 12px;
+
 }
