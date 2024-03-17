@@ -102,6 +102,11 @@ font-size: 24px;
         display: block;
 }
 
+@media (max-width: 960px) {
+    footer {
+        padding: 0 auto;
+    }
+}
 
 .btn-branding {
 background: #EAFBA1;
